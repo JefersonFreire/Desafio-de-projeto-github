@@ -1,2 +1,6 @@
-## Repositorio do desafio dio github.
-# Objetivo desse repositorio é usar os comandos básicos para criar um repositorio dentro do servidor remoto e local!   
+Repositório do desafio dio github.
+
+Objetivo desse projeto é usar os comandos básicos para criar um repositório dentro do servidor remoto e local!   
+
+
+
